@@ -1,5 +1,6 @@
 # Global Layoffs SQL Analysis: Data Cleaning and Trend Analysis
 
+
 ## Executive Summary
 
 This project uses SQL to clean and analyze a global layoffs dataset. The goal is to identify which companies, industries, countries, and time periods experienced the highest layoff activity.
@@ -27,6 +28,10 @@ This project focuses on answering the following business questions:
 - MySQL
 - MySQL Workbench
 - SQL
+
+## Dataset
+
+The dataset used in this project comes from a publicly available SQL data cleaning and exploratory analysis tutorial. The raw CSV file is not included in this repository. This project focuses on the SQL workflow, including data cleaning, exploratory analysis, and business-focused interpretation.
 
 ## Project Files
 
